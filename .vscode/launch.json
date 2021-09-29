@@ -28,7 +28,7 @@
       "args": ["dev", "..\\..\\chs1"]
     },
     {
-      "name": "Python: demo box",
+      "name": "Python: Demo Box",
       "type": "python",
       "request": "launch",
       "program": "demo_toolbox.py",
